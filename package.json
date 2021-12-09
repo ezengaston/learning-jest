@@ -1,0 +1,17 @@
+{
+  "name": "unitTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "account.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:unit": "jest \\.unit\\. --coverage",
+    "test:int": "jest \\.int\\. --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
